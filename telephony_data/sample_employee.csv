@@ -1,0 +1,15 @@
+EmployeeID,FirstName,LastName,TeamLeader,Updated
+E01,Bilbo,Baggins,Gandalf The Grey,2025-01-01
+E01,Bilbo,Baggins,Gandalf The White,2025-10-01
+E02,Frodo,Baggins,Bilbo Baggins,2025-01-01
+E02,Frodo,Baggins,Gandalf The Grey,2025-03-01
+E02,Frodo,Baggins,Gandalf The White,2025-10-01
+E03,Samwise,Gamgee,Frodo Baggins,2025-01-01
+E04,Meriadoc,Brandybuck,Frodo Baggins,2025-01-01
+E05,Peregrin,Took,Frodo Baggins,2025-01-01
+E05,Peregrin,Took,Gandalf The White,2025-10-01
+E06,Arwen,Evenstar,Aragorn Elessar,2025-01-01
+E07,Elrond,Half-Elven,Aragorn Elessar,2025-01-01
+E08,Lobellia,Sackville-Baggins,Aragorn Elessar,2025-01-01
+E09,Barliman,Butterbar,Aragorn Elessar,2025-01-01
+E10,Grima,Wormtounge,Saruman The White,2025-01-01
