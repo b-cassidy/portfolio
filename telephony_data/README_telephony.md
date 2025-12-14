@@ -80,5 +80,5 @@ The tests verify that the actual proportion of calls flagged as **Abandoned** an
 ### 🧠  What next?
 
  1. Need to create separate python script to query new data, including some visuals using Matplotlib
- 2. Anotehr script to create aggregated data model CSV file that can be used in PBI
+ 2. Another script to create aggregated data model CSV file that can be used in PBI
  3. Take new data file, import into PBI, build report and include here
