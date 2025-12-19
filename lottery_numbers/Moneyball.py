@@ -175,7 +175,3 @@ estimated_returns['TOTAL winnings'] = total_winnings
 print(
     f'The most commonly drawn numbers from {draw_count} draws are {top_numbers}')
 print(match_counts)
-
-print(' - Estimated winnings - ')
-for tier, amount in estimated_returns.items():
-    print(f'{tier:<25}: £{amount:,.0f}')
