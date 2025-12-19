@@ -13,8 +13,8 @@ Firstly, thank you for taking the time to look over the contents of my portfolio
 In this repository you will find a plain-text version of my CV and different projects that I've published here too. The repository is broken down into xxxx sections;
 
 1. [My CV](Ben_Cassidy_CV.md)
-2. [Telephony Data Project](#telephony-data-project) (Python, SQL & Power BI)
-3. [Lottery Numbers Project](#lottery-numbers-project) (Python)
+2. [Telephony Data Project](#telephony-data-project) (Python)
+3. [Lottery Numbers Project](#lottery-numbers-project) (Python, SQL)
 4. [Sudoku Puzzle Project](#sudoku-puzzle-project) (Python)
 
 <br>
