@@ -13,15 +13,28 @@ Firstly, thank you for taking the time to look over the contents of my portfolio
 In this repository you will find a plain-text version of my CV and different projects that I've published here too. The repository is broken down into xxxx sections;
 
 1. [My CV](Ben_Cassidy_CV.md)
-2. [Telephony Data Project](#telephony-data-project) (Python)
-3. [Lottery Numbers Project](#lottery-numbers-project) (Python, SQL)
-4. [Sudoku Puzzle Project](#sudoku-puzzle-project) (Python)
+2. [Demand Forecasting with Machine Learning](#demand-forecasting-with-machine-learning) (Python, AI, ML)
+3. [Telephony Data Project](#telephony-data-project) (Python)
+4. [Lottery Numbers Project](#lottery-numbers-project) (Python, SQL)
+5. [Sudoku Puzzle Project](#sudoku-puzzle-project) (Python)
+
+<br>
+
+# Demand Forecasting with Machine Learning
+
+Latest project added to this repository, essentially a walkthrough of using Python and Machine Learning in a business case scenario. 
+
+For this, the business has approached me with a growing issue with their demand forecasting accuracy getting worse other time. Using the data provided I firstly validate that the forecast accuracy is indeed getting worse and then analyse the data using a number of custom functions to discover the true drivers for demand.
+
+Once the drivers are identified and validated, a machine learning forecast model is initiated, trained and tested which gives a much more accurate forecast to the business.
+
+More info can be found in the project readme [ML README](demand_forecasting_ML/README.md)
 
 <br>
 
 # Telephony Data Project
 
-Largest project in this repository at the time, here I'm firstly using python to create dummy call data and storing this in a csv. Then this csv file is queried using python to show top level performance metrics, and also modelled to create another csv file that is used as a data source in Power BI.
+One of the largest projects in this repository at the time, here I'm firstly using python to create dummy call data and storing this in a csv. Then this csv file is queried using python to show top level performance metrics, and also modelled to create another csv file that is used as a data source in Power BI.
 
 For good measure as well, the dummy data csv that has been created is also read into a dataframe and queried using SQL with some Matplotlib visuals thrown in too.
 
