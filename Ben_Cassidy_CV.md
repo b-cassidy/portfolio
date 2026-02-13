@@ -1,6 +1,6 @@
 <h1>
 Ben Cassidy<br>
-Award Winning Analytics Manager<br>
+Award Winning Experianced Data Manager & Evangelist<br>
 Available for Immediate Start
 </h1>
 
@@ -11,24 +11,33 @@ Middlesbrough, United Kingdom <br>
 
 <h2>Professional Summary</h2>
 
-Recent Claims & Operations MI Manager with 9 years comprehensive experience in data analytics and leadership, excelling in enhancing management information teams to drive data-informed decisions and operational efficiency. Proven track record in coaching and developing teams of Analysts in new ways of working that not only improve efficiencies but help move teams away from report creation to providing insight.<br><br>
-Known for fostering cross-departmental collaboration and streamlining processes to support strategic growth and innovation. Committed to advancing organisational success through effective resource management and data driven strategies<br><br>
+Recent Claims & Operations MI Manager with 9 years comprehensive experience in data analytics and leadership, excelling in enhancing management information teams to drive data-informed decisions and operational efficiency. Proven track record in coaching and developing team members in new ways of working or technologies that not only improve efficiencies but help move teams away from report creation to providing insight.
+
+Known for embedding a data partnering model with various business units in a large-scale commercial setting serving millions of customers around the United Kingdom. Able to translate complex technical insights into actionable strategies for non-technical stakeholders to help increase buy-in for innovation and emerging data technologies and committed to advancing organisational success through effective resource management and data driven strategies whilst also pushing for positive customer outcomes.
+
 Recipient of the Professional Planning Forums Data Analyst of the Year Award 2017 and University of Ulster Advanced Diploma holder in Managing Customer Contact (distinction).
 
+<h2>Strategic & Technical Toolkit</h2>
+
+ - <b>Data Science & AI</b> - Python (Pandas, PySpark, Scikit-Learn etc.), Predictive Modelling, Machine Learning & Data Ethics
+ - <b>BI & Analysis</b> - Power BI, Databricks, SQL, Google Analytics, SSRS, SSIS
+ - <b>Leadership & Innovation</b> - Data Partnering, Resource Management, Stakeholder Engagement, Coaching & Training
+ - <b>Operational Excellence</b> - Process Automation, Legacy Platform Migration (Excel/Access to Cloud), Data Governance & Resource Management
+ - <b>Speciliast Expertise</b> - Genuine passion for driving positive customer outcomes Analytics and Management, First Call Resolution (FCR) Frameworks, Workforce Management, Salesforce CRM Admin Experience 
 
 <h2>Employment History</h2>
 
 <h3>Claims & Operational MI Manager</h3>
 <b>AXA Insurance<br>Jan 2022 - Oct 2025</b>
 <br>
-Following a restructure leading to the merger of AXA's Pricing and Analytics functions I was promoted to the Claims & Operations MI Manager position. This new position combined our Operational and Claims MI Teams into one team of seven analysts working out of four offices spread around the country. My department were responsible for the day-to-day reporting and ad hoc data requests for 700 plus employees working in claims or customer contact functions.
+Following a restructure leading to the merger of AXA's Pricing and Analytics functions I was promoted to the Claims & Operations MI Manager position. This new position combined our Operational and Claims MI Teams into one team of seven analysts working out of four offices spread around the country. My department were responsible for the day-to-day reporting and ad hoc data requests for 700 plus employees working in claims or customer contact functions whilst I was also the point of contact for developing predictive models for our customer facing business units.
 <br><br>
 <b>Key Responsibilities/Achievements</b>
 <br>
-- Enhanced reporting for claims contact centres improving operational efficiency by working closely with my new direct reports from Claims to look at removing dependence on legacy platforms (Access, Excel etc.)<br>
- - Facilitated cross-department collaboration, fostering data-driven decisions<br>
-- Streamlined data processes by leveraging cloud-based reporting platforms like databricks and Power BI
-- Developed a cross-department training program for onboarding new team members focusing on coding standards, data availability, repo usage and key terms
+- Enhanced reporting and efficiency for claims contact centres whilst reducing legacy report volume by over 50%. Achieved by removing legacy platform dependency (e.g. Access, Excel etc) and embracing newer technology (Databricks, Python etc) and reporting tools (Power BI, Google Analytics etc.), while including scalability in our designs<br>
+ - Began showcasing the possibilities of using AI to drive insight and innovation with the creation of multiple ML models focusing on reducing staff turnover and increasing demand forecasting accuracy using location-based data<br>
+- Successfully embedded a data/business partnering approach where I aligned my teams work and priorities with the strategic goals of the varying business units we supported<br>
+- Developed a cross-department training program for onboarding new team members and upskilling junior analysts focusing on coding (Python & SQL), data availability, governance, repo usage and key industry terminology
 
 
 <h3>Management Information Team Leader</h3>
