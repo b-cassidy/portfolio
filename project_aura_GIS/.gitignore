@@ -1,0 +1,20 @@
+# --- Project Aura Data Filters ---
+# Ignore all raw and processed data files
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- Python Environment & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db

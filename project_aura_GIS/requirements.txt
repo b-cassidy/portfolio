@@ -1,0 +1,12 @@
+# Data Manipulation & Math
+pandas==2.2.0
+numpy==1.26.3
+
+# Geospatial Processing
+geopandas==0.14.2
+shapely==2.0.2
+pyproj==3.6.1
+
+# Visualization & Mapping
+folium==0.15.1
+branca==0.7.0
