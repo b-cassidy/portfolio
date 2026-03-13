@@ -1,0 +1,17 @@
+# --- Project Aura Data Filters ---
+# Ignore cleaned ingested data
+data/br_imported.csv
+
+# --- Python Environment & Cache ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+.env
+.ipynb_checkpoints/
+
+# --- OS Specific ---
+.DS_Store
+Thumbs.db
