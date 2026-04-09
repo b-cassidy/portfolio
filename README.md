@@ -10,7 +10,7 @@ Firstly, thank you for taking the time to look over the contents of my portfolio
 
 <br>
 
-In this repository you will find a plain-text version of my CV and different projects that I've published here too. The repository is broken down into xxxx sections;
+In this repository you will find a plain-text version of my CV and different projects that I've published here too. The repository is broken down into five sections;
 
 1. [My CV](Ben_Cassidy_CV.md)
 2. [Demand Forecasting with Machine Learning](#demand-forecasting-with-machine-learning) (Python, AI, ML)
